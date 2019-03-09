@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "92effd527218192d780a24a9a9ff4e01"
+build_time: [1551513418, 852943000]
+inputs:
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOWebSocket/Base64.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOWebSocket/SHA1.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOWebSocket/WebSocketFrame.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOWebSocket/WebSocketOpcode.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOWebSocket/WebSocketUpgrader.swift": [1551355700, 0]

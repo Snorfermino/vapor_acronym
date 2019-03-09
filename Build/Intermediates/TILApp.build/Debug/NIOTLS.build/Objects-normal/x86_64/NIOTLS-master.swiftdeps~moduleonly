@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "bbbe1177580ff2575186b573e1af2ce7"
+build_time: [1551513412, 83576000]
+inputs:
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOTLS/SNIHandler.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio.git-7789465888856993056/Sources/NIOTLS/TLSEvents.swift": [1551355700, 0]

@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "493689d7977a21f9b406bf8c98d20271"
+build_time: [1551513412, 89527000]
+inputs:
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/BitsError.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/Byte+Alphabet.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/Byte+Control.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/Byte+Digit.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/ByteBuffer+peek.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/ByteBuffer+require.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/ByteBuffer+string.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/Bytes.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/Data+Bytes.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/Data+Strings.swift": [1551355700, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/core.git--3682430780741917418/Sources/Bits/Deprecated.swift": [1551355700, 0]

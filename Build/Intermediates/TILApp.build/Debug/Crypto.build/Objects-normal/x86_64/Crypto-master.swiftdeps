@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "817e18c79cbd062d17fdabc4c784422b"
+build_time: [1551513423, 843507000]
+inputs:
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/BCrypt/BCryptDigest.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Cipher/Cipher.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Digest/Digest.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Digest/DigestAlgorithm.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/MAC/HMAC.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/MAC/OTP.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/RSA/RSA.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/RSA/RSAKey.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/RSA/RSAPadding.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Random/CryptoRandom.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Utilities/Base32.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Utilities/CryptoError.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Utilities/Deprecated.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Crypto/Utilities/Exports.swift": [1551355697, 0]

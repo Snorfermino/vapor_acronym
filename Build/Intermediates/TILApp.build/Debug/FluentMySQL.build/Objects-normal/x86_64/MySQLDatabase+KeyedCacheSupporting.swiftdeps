@@ -1,0 +1,160 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "5MySQL0A11SQLDatabaseC"
+provides-member:
+- ["5MySQL0A11SQLDatabaseC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "KeyedCacheSupporting"
+- "MySQLDatabase"
+depends-member:
+- ["11DatabaseKit0A0P", "keyedCacheGet"]
+- ["11DatabaseKit0A0P", "keyedCacheRemove"]
+- ["11DatabaseKit0A0P", "keyedCacheSet"]
+- ["6Fluent14JoinSupportingP", "keyedCacheGet"]
+- ["6Fluent14JoinSupportingP", "keyedCacheRemove"]
+- ["6Fluent14JoinSupportingP", "keyedCacheSet"]
+- ["11DatabaseKit20KeyedCacheSupportingP", ""]
+- ["11DatabaseKit20KeyedCacheSupportingP", "keyedCacheGet"]
+- ["11DatabaseKit20KeyedCacheSupportingP", "keyedCacheRemove"]
+- ["11DatabaseKit20KeyedCacheSupportingP", "keyedCacheSet"]
+- ["11DatabaseKit13LogSupportingP", "keyedCacheGet"]
+- ["11DatabaseKit13LogSupportingP", "keyedCacheRemove"]
+- ["11DatabaseKit13LogSupportingP", "keyedCacheSet"]
+- ["6Fluent19MigrationSupportingP", "keyedCacheGet"]
+- ["6Fluent19MigrationSupportingP", "keyedCacheRemove"]
+- ["6Fluent19MigrationSupportingP", "keyedCacheSet"]
+- ["5MySQL0A11SQLDatabaseC", "deinit"]
+- ["5MySQL0A11SQLDatabaseC", "keyedCacheGet"]
+- ["5MySQL0A11SQLDatabaseC", "keyedCacheRemove"]
+- ["5MySQL0A11SQLDatabaseC", "keyedCacheSet"]
+- ["6Fluent15QuerySupportingP", "keyedCacheGet"]
+- ["6Fluent15QuerySupportingP", "keyedCacheRemove"]
+- ["6Fluent15QuerySupportingP", "keyedCacheSet"]
+- ["9FluentSQL33SQLConstraintIdentifierNormalizerP", "keyedCacheGet"]
+- ["9FluentSQL33SQLConstraintIdentifierNormalizerP", "keyedCacheRemove"]
+- ["9FluentSQL33SQLConstraintIdentifierNormalizerP", "keyedCacheSet"]
+- ["6Fluent16SchemaSupportingP", "keyedCacheGet"]
+- ["6Fluent16SchemaSupportingP", "keyedCacheRemove"]
+- ["6Fluent16SchemaSupportingP", "keyedCacheSet"]
+- ["7ServiceAAP", "keyedCacheGet"]
+- ["7ServiceAAP", "keyedCacheRemove"]
+- ["7ServiceAAP", "keyedCacheSet"]
+- ["7Service0A4TypeP", "keyedCacheGet"]
+- ["7Service0A4TypeP", "keyedCacheRemove"]
+- ["7Service0A4TypeP", "keyedCacheSet"]
+- ["6Fluent21TransactionSupportingP", "keyedCacheGet"]
+- ["6Fluent21TransactionSupportingP", "keyedCacheRemove"]
+- ["6Fluent21TransactionSupportingP", "keyedCacheSet"]
+depends-nominal:
+- "11DatabaseKit0A0P"
+- "6Fluent14JoinSupportingP"
+- "11DatabaseKit20KeyedCacheSupportingP"
+- "11DatabaseKit13LogSupportingP"
+- "6Fluent19MigrationSupportingP"
+- "5MySQL0A11SQLDatabaseC"
+- "6Fluent15QuerySupportingP"
+- "9FluentSQL33SQLConstraintIdentifierNormalizerP"
+- "6Fluent16SchemaSupportingP"
+- "7ServiceAAP"
+- "7Service0A4TypeP"
+- "6Fluent21TransactionSupportingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/SQL.framework/Modules/SQL.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/FluentSQL.framework/Modules/FluentSQL.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/MySQL.framework/Modules/MySQL.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIOOpenSSL.framework/Modules/NIOOpenSSL.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIO.framework/Modules/NIO.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIOTLS.framework/Modules/NIOTLS.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Async.framework/Modules/Async.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Command.framework/Modules/Command.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Service.framework/Modules/Service.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Console.framework/Modules/Console.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Core.framework/Modules/Core.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Logging.framework/Modules/Logging.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Debugging.framework/Modules/Debugging.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/COperatingSystem.framework/Modules/COperatingSystem.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Random.framework/Modules/Random.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Crypto.framework/Modules/Crypto.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIOConcurrencyHelpers.framework/Modules/NIOConcurrencyHelpers.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Bits.framework/Modules/Bits.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIOFoundationCompat.framework/Modules/NIOFoundationCompat.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/DatabaseKit.framework/Modules/DatabaseKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Fluent.framework/Modules/Fluent.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/asn1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/tls1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dtls1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pkcs12.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl2.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pem2.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl23.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl3.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509v3.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/md5.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pkcs7.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/sha.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dsa.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ecdsa.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/rsa.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/obj_mac.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/hmac.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ec.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOAtomics.framework/Headers/cpp_magic.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOLinux.framework/Headers/ifaddrs-android.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/rand.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/conf.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslconf.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dh.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ecdh.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/lhash.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/stack.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/safestack.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pem.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/bn.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIODarwin.framework/Headers/CNIODarwin.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/bio.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/crypto.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/srtp.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/evp.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ossl_typ.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/buffer.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/err.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOAtomics.framework/Headers/CNIOAtomics.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslfeatures.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/objects.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslv.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOLinux.framework/Headers/CNIOLinux.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509_vfy.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl-support.git-5405304412507994221/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-zlib-support.git--5226887469817572071/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/TILApp.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/TILApp.xcodeproj/GeneratedModuleMap/CCryptoOpenSSL/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/CBase32/include/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/CBcrypt/include/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIODarwin.framework/Modules/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOAtomics.framework/Modules/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOLinux.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "21d7f243a26b5217014327dffec89a16"

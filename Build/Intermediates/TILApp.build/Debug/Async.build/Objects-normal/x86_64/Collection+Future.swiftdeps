@@ -1,0 +1,66 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["Sl", ""]
+- ["Sl", "map"]
+- ["Sl", "flatMap"]
+- ["Sl", "map"]
+- ["Sl", "flatMap"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Collection"
+- "Future"
+- "FutureType"
+- "Void"
+- "Worker"
+depends-member:
+- ["Sl", "Element"]
+- ["Sl", "Future"]
+- ["Sl", "FutureType"]
+- ["Sl", "Void"]
+- ["Sl", "Worker"]
+- ["Sl", "flatMap"]
+- !private ["Sl", "flatten"]
+- ["Sl", "map"]
+- !private ["SQ", "flatMap"]
+- !private ["SQ", "map"]
+- !private ["3NIO15EventLoopFutureC", "deinit"]
+- !private ["3NIO15EventLoopFutureC", "flatMap"]
+- !private ["3NIO15EventLoopFutureC", "map"]
+- !private ["5Async10FutureTypeP", "flatMap"]
+- !private ["5Async10FutureTypeP", "map"]
+- ["ST", "Element"]
+- ["ST", "Future"]
+- ["ST", "FutureType"]
+- ["ST", "Void"]
+- ["ST", "Worker"]
+- !private ["ST", "flatten"]
+depends-nominal:
+- "Sl"
+- !private "SQ"
+- !private "3NIO15EventLoopFutureC"
+- !private "5Async10FutureTypeP"
+- "ST"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIO.framework/Modules/NIO.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIOConcurrencyHelpers.framework/Modules/NIOConcurrencyHelpers.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOAtomics.framework/Headers/cpp_magic.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOLinux.framework/Headers/ifaddrs-android.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIODarwin.framework/Headers/CNIODarwin.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOAtomics.framework/Headers/CNIOAtomics.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOLinux.framework/Headers/CNIOLinux.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-zlib-support.git--5226887469817572071/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIODarwin.framework/Modules/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOAtomics.framework/Modules/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOLinux.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+interface-hash: "4379026eed359e26d7978e8ac067a95f"

@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "2b568d7e6be6439092c2cfc3455707ca"
+build_time: [1551513430, 409198000]
+inputs:
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Parameter/Parameter.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Parameter/ParameterValue.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Parameter/Parameters.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Register/PathComponent.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Register/Route.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Register/RouterOption.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Routing/RoutableComponent.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Routing/RouterNode.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Routing/TrieRouter.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Utilities/Deprecated.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Utilities/Exports.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/routing.git-4533504815497113673/Sources/Routing/Utilities/RoutingError.swift": [1551355697, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "bbaa737684428e02a092d3658a1d4bc1"
+build_time: [1551513452, 709913000]
+inputs:
+  "/Users/phungdu/Documents/code/vapor/TILApp/Sources/Run/main.swift": !dirty [1551355542, 0]

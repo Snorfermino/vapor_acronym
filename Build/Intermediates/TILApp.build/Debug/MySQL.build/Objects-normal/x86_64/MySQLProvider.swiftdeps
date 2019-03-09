@@ -1,0 +1,315 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MySQLProvider"
+provides-nominal:
+- "5MySQL0A11SQLProviderC"
+- "5MySQL0A17SQLDatabaseConfigV"
+- "5MySQL0A11SQLDatabaseC"
+provides-member:
+- ["5MySQL0A11SQLProviderC", ""]
+- ["5MySQL0A17SQLDatabaseConfigV", ""]
+- ["5MySQL0A11SQLDatabaseC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Container"
+- !private "DatabaseKitProvider"
+- !private "DatabasesConfig"
+- "Future"
+- "MySQLDatabase"
+- "MySQLDatabaseConfig"
+- "MySQLProvider"
+- "Provider"
+- "ServiceType"
+- "Services"
+- "StringLiteralType"
+- "Void"
+depends-member:
+- ["4Core22AnyReflectionDecodableP", "init"]
+- ["4Core22AnyReflectionDecodableP", "init"]
+- ["4Core21BasicKeyRepresentableP", "init"]
+- ["4Core21BasicKeyRepresentableP", "init"]
+- !private ["5Async11BasicWorkerP", "make"]
+- ["SK", "init"]
+- ["SK", "init"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- ["SL", "init"]
+- ["SL", "init"]
+- !private ["7Service9ContainerP", "make"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "mysql"]
+- !private ["s23CustomStringConvertibleP", "register"]
+- !private ["11DatabaseKit0A0P", "init"]
+- !private ["11DatabaseKit0A0P", "init"]
+- ["11DatabaseKit0A0P", "makeService"]
+- ["11DatabaseKit0A0P", "serviceSupports"]
+- !private ["11DatabaseKit0A10IdentifierV", "mysql"]
+- !private ["11DatabaseKit0aB8ProviderC", "init"]
+- !private ["11DatabaseKit15DatabasesConfigV", "add"]
+- !private ["11DatabaseKit15DatabasesConfigV", "init"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["SE", "done"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SQ", "done"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- !private ["SQ", "mysql"]
+- !private ["3NIO15EventLoopFutureC", "done"]
+- !private ["3NIO14EventLoopGroupP", "make"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "mysql"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "mysql"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "mysql"]
+- !private ["5Async10FutureTypeP", "done"]
+- ["SH", "init"]
+- ["SH", "init"]
+- !private ["SH", "mysql"]
+- ["4Core23LosslessDataConvertibleP", "init"]
+- ["4Core23LosslessDataConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["5MySQL0A18SQLDataConvertibleP", "init"]
+- ["5MySQL0A18SQLDataConvertibleP", "init"]
+- ["5MySQL0A30SQLDataTypeStaticRepresentableP", "init"]
+- ["5MySQL0A30SQLDataTypeStaticRepresentableP", "init"]
+- ["5MySQL0A11SQLDatabaseC", "Container"]
+- ["5MySQL0A11SQLDatabaseC", "MySQLDatabase"]
+- ["5MySQL0A11SQLDatabaseC", "deinit"]
+- !private ["5MySQL0A11SQLDatabaseC", "init"]
+- !private ["5MySQL0A11SQLDatabaseC", "init"]
+- ["5MySQL0A11SQLDatabaseC", "makeService"]
+- ["5MySQL0A11SQLDatabaseC", "serviceSupports"]
+- ["5MySQL0A17SQLDatabaseConfigV", "Container"]
+- ["5MySQL0A17SQLDatabaseConfigV", "MySQLDatabaseConfig"]
+- ["5MySQL0A17SQLDatabaseConfigV", "deinit"]
+- ["5MySQL0A17SQLDatabaseConfigV", "makeService"]
+- !private ["5MySQL0A17SQLDatabaseConfigV", "root"]
+- ["5MySQL0A17SQLDatabaseConfigV", "serviceSupports"]
+- ["5MySQL0A11SQLProviderC", "Container"]
+- !private ["5MySQL0A11SQLProviderC", "DatabaseKitProvider"]
+- !private ["5MySQL0A11SQLProviderC", "DatabasesConfig"]
+- ["5MySQL0A11SQLProviderC", "Future"]
+- !private ["5MySQL0A11SQLProviderC", "MySQLDatabase"]
+- !private ["5MySQL0A11SQLProviderC", "MySQLDatabaseConfig"]
+- ["5MySQL0A11SQLProviderC", "Services"]
+- ["5MySQL0A11SQLProviderC", "Void"]
+- ["5MySQL0A11SQLProviderC", "deinit"]
+- ["5MySQL0A11SQLProviderC", "didBoot"]
+- ["5MySQL0A11SQLProviderC", "init"]
+- ["5MySQL0A11SQLProviderC", "register"]
+- ["5MySQL0A11SQLProviderC", "repositoryName"]
+- ["5MySQL0A11SQLProviderC", "willBoot"]
+- !private ["7Service8ProviderP", "DatabaseKitProvider"]
+- !private ["7Service8ProviderP", "DatabasesConfig"]
+- !private ["7Service8ProviderP", "MySQLDatabase"]
+- !private ["7Service8ProviderP", "MySQLDatabaseConfig"]
+- ["7Service8ProviderP", ""]
+- ["7Service8ProviderP", "didBoot"]
+- !private ["7Service8ProviderP", "init"]
+- ["7Service8ProviderP", "register"]
+- ["7Service8ProviderP", "willBoot"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- ["4Core19ReflectionDecodableP", "init"]
+- ["4Core19ReflectionDecodableP", "init"]
+- ["ST", "init"]
+- ["ST", "init"]
+- ["7ServiceAAP", ""]
+- !private ["7ServiceAAP", "add"]
+- !private ["7ServiceAAP", "init"]
+- !private ["7ServiceAAP", "init"]
+- ["7ServiceAAP", "makeService"]
+- !private ["7ServiceAAP", "root"]
+- ["7ServiceAAP", "serviceSupports"]
+- ["7Service0A4TypeP", ""]
+- !private ["7Service0A4TypeP", "init"]
+- !private ["7Service0A4TypeP", "init"]
+- ["7Service0A4TypeP", "makeService"]
+- !private ["7Service0A4TypeP", "root"]
+- ["7Service0A4TypeP", "serviceSupports"]
+- !private ["7Service8ServicesV", "register"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "4Core22AnyReflectionDecodableP"
+- "4Core21BasicKeyRepresentableP"
+- !private "5Async11BasicWorkerP"
+- "SK"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- !private "7Service9ContainerP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "11DatabaseKit0A0P"
+- !private "11DatabaseKit0A10IdentifierV"
+- !private "11DatabaseKit0aB8ProviderC"
+- !private "11DatabaseKit15DatabasesConfigV"
+- "Se"
+- "SE"
+- "SQ"
+- !private "3NIO15EventLoopFutureC"
+- !private "3NIO14EventLoopGroupP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "5Async10FutureTypeP"
+- "SH"
+- "4Core23LosslessDataConvertibleP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "5MySQL0A18SQLDataConvertibleP"
+- "5MySQL0A30SQLDataTypeStaticRepresentableP"
+- "5MySQL0A11SQLDatabaseC"
+- "5MySQL0A17SQLDatabaseConfigV"
+- "5MySQL0A11SQLProviderC"
+- "7Service8ProviderP"
+- "Sm"
+- "4Core19ReflectionDecodableP"
+- "ST"
+- "7ServiceAAP"
+- "7Service0A4TypeP"
+- !private "7Service8ServicesV"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/SQL.framework/Modules/SQL.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIOOpenSSL.framework/Modules/NIOOpenSSL.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIO.framework/Modules/NIO.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIOTLS.framework/Modules/NIOTLS.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Async.framework/Modules/Async.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Service.framework/Modules/Service.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Core.framework/Modules/Core.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Debugging.framework/Modules/Debugging.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/COperatingSystem.framework/Modules/COperatingSystem.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Random.framework/Modules/Random.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Crypto.framework/Modules/Crypto.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIOConcurrencyHelpers.framework/Modules/NIOConcurrencyHelpers.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/Bits.framework/Modules/Bits.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/NIOFoundationCompat.framework/Modules/NIOFoundationCompat.swiftmodule/x86_64.swiftmodule"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/DatabaseKit.framework/Modules/DatabaseKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/asn1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/tls1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dtls1.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pkcs12.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl2.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pem2.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl23.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl3.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509v3.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/md5.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pkcs7.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/sha.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dsa.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ecdsa.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/rsa.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/obj_mac.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/hmac.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ec.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOAtomics.framework/Headers/cpp_magic.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOLinux.framework/Headers/ifaddrs-android.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/rand.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/conf.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslconf.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/dh.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ecdh.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/lhash.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/stack.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/safestack.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ssl.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/pem.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/bn.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIODarwin.framework/Headers/CNIODarwin.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/bio.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/crypto.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/srtp.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/evp.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/ossl_typ.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/buffer.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/err.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOAtomics.framework/Headers/CNIOAtomics.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslfeatures.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/objects.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/opensslv.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOLinux.framework/Headers/CNIOLinux.h"
+- "/usr/local/Cellar/libressl/2.8.3/include/openssl/x509_vfy.h"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl-support.git-5405304412507994221/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-zlib-support.git--5226887469817572071/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/TILApp.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/TILApp.xcodeproj/GeneratedModuleMap/CCryptoOpenSSL/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/CBase32/include/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/CBcrypt/include/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIODarwin.framework/Modules/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOAtomics.framework/Modules/module.modulemap"
+- "/Users/phungdu/Documents/code/vapor/TILApp/Build/Products/Debug/CNIOLinux.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3ea122f2fab1a1265e37c7352a5eb389"

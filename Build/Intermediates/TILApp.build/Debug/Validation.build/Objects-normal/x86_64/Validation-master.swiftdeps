@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "b11fdf6c17accb338c65811c29152c33"
+build_time: [1551513423, 841662000]
+inputs:
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Exports.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validatable.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/ValidationError.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validations.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/ValidatorType.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/AndValidator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/CharacterSetValidator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/CountValidator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/EmailValidator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/EmptyValidator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/InValidator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/NilIgnoringValidator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/NilValidator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/NotValidator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/OrValidator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/RangeValidator.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/validation.git-4974132509114077291/Sources/Validation/Validators/URLValidator.swift": [1551355699, 0]

@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "f50ee552b8eeeae07e853250359e6d09"
+build_time: [1551513436, 53168000]
+inputs:
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Base/CommandOption.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Base/CommandRunnable.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Command/Command.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Command/CommandArgument.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Config/CommandConfig.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Config/Commands.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Group/BasicCommandGroup.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Group/CommandGroup.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Run/CommandContext.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Run/CommandInput.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Run/Console+Run.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Run/Output+Autocomplete.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Run/Output+Help.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Utilities/CommandError.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Utilities/Exports.swift": [1551355698, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/console.git--2038011266701773803/Sources/Command/Utilities/Utilities.swift": [1551355698, 0]

@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "88ffda30f36624df726e790ad79e98ad"
+build_time: [1551513414, 996903000]
+inputs:
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/IdentityVerification.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/PosixPort.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/SSLCertificate.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/SSLConnection.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/SSLContext.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/SSLErrors.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/SSLInit.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/SSLPublicKey.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": [1551355699, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-364103626492085369/Sources/NIOOpenSSL/TLSConfiguration.swift": [1551355699, 0]

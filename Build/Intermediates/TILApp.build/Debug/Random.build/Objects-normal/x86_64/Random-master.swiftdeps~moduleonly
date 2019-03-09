@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "379c0ff269ded90961d8cc738fef64bd"
+build_time: [1551513415, 312138000]
+inputs:
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Random/Array+Random.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Random/OSRandom.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Random/RandomProtocol.swift": [1551355697, 0]
+  "/Users/phungdu/Documents/code/vapor/TILApp/.build/checkouts/crypto.git--1533935204638955627/Sources/Random/URandom.swift": [1551355697, 0]
